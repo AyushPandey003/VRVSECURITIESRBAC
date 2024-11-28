@@ -8,7 +8,7 @@ This submission showcases an ecommerce website project where I implemented a ful
 
 The RBAC system ensures that each user has access only to features and pages relevant to their role, enhancing security and usability.  
 
-#### **RBAC Implementation**  
+#### **RBAC Implementation guide**  
 Key features of the RBAC UI include:  
 1. **Dynamic Routing and Access Control**:  
    - Role-based middleware ensures only authorized users can access specific routes.  
