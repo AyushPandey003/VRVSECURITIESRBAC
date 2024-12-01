@@ -47,7 +47,7 @@ Key features of the RBAC UI include:
    ```  
 2. Use the following credentials for role-based testing:  
    - **Admin**:  
-     - Email: `admin@gmail.com`  
+     - Email: `admin123@gmail.com`  
      - Password: `admin123`  
    - **Vendor**:  
      - Email: `vendor@gmail.com`  
